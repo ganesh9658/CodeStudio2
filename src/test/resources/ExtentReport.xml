@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<extentreports>
+	<configuration>
+		<theme>standar</theme>
+		<encoding>UTF-8</encoding>
+		<protocol>https</protocol>
+		<documentTitle>CEDAR</documentTitle>
+		<reportName>CEDAR Test Report</reportName>
+		<dateformat>yyyy-mm-dd</dateformat>
+		<timeformat>HH:mm:ss</timeformat>
+		<scripts>
+			<![CDATA[
+			$(document).ready(function(){
+			});
+			]]>
+		</scripts>
+	</configuration>
+</extentreports>
